@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Alina Akhankova](https://up.htmlacademy.ru/htmlcss/20/user/567837).
-* Наставник: `Неизвестно`.
+* Наставник: [Павел Тиунов](https://up.htmlacademy.ru/htmlcss/20/user/612073). 
 
 ---
 
